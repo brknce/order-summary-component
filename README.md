@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card
 
-You can my solution: https://brknce.github.io/order_summary_component/ 
+<p><b>You can see my solution: </b> https://brknce.github.io/order-summary-component/</p>
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
